@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1605018043,
+	"version": 1605100650,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -114,6 +114,9 @@
 		"images/espiras2-sheet0.png",
 		"images/espiras3-sheet0.png",
 		"images/capacitor4-sheet0.png",
+		"images/setaesquerda-sheet0.png",
+		"images/caixarespota1-sheet0.png",
+		"images/caixaresposta2-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
